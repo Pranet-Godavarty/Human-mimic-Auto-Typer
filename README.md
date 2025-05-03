@@ -22,28 +22,17 @@ A stealthy Python automation tool that perfectly mimics human typing patterns, d
   - Caps lock mistake simulation  
 
 ### **Control & Evasion**  
-- **Foreground Process Masking**  
-  - Random GUI minimization/restoration  
-  - Background thread priority adjustment  
 - **Anti-Detection Measures**  
-  - Variable initial delay (2-8 seconds)  
-  - Mouse micro-movements during typing  
-  - System idle time simulation  
-
+  - Variable initial delay (2-8 seconds)
+  - 
 ## **User Interface**  
 
 ### **Main Control Panel**  
-- **Text Input**  
-  - Smart paragraph formatting  
-  - Placeholder text templates  
 - **Behavior Customization**  
-  - Personality presets (Careful, Average, Sloppy)  
   - Advanced timing controls  
   - Error complexity scaling  
 
 ### **Floating Monitor**  
-- Real-time WPM display  
-- Error counter  
 - Emergency stop shield (Ctrl+Alt+Del bypass)  
 
 ## **Usage Specifications**  
@@ -59,7 +48,7 @@ A stealthy Python automation tool that perfectly mimics human typing patterns, d
 ### **Critical Limitations**  
 ⚠ **Absolute System Lockout**  
 - Complete PC unusability during operation  
-- All user inputs are blocked/overridden so you cannot use your pc due to mimicing your keyboard  
+- All user inputs are blocked/overridden so you cannot use your pc due to mimicking your keyboard  
 
 ⚠ **Environmental Requirements**  
 - Target window must:  
